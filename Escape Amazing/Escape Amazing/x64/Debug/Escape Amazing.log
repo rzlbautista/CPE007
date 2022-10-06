@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Renniel\source\repos\Escape Amazing\Escape Amazing\Source.cpp(7,14): warning C4101: 'z': unreferenced local variable
+C:\Users\Renniel\source\repos\Escape Amazing\Escape Amazing\Source.cpp(7,11): warning C4101: 'y': unreferenced local variable
+C:\Users\Renniel\source\repos\Escape Amazing\Escape Amazing\Source.cpp(7,8): warning C4101: 'x': unreferenced local variable
+  Escape Amazing.vcxproj -> C:\Users\Renniel\source\repos\Escape Amazing\x64\Debug\Escape Amazing.exe
