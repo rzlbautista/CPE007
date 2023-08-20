@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Rizelle\Quiz 6.1\Quiz 6.1\Source.cpp(43,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Rizelle\Quiz 6.1\Quiz 6.1\Source.cpp(45,37): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Rizelle\Quiz 6.1\Quiz 6.1\Source.cpp(47,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Rizelle\Quiz 6.1\Quiz 6.1\Source.cpp(49,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Quiz 6.1.vcxproj -> D:\Rizelle\Quiz 6.1\x64\Debug\Quiz 6.1.exe
